@@ -46,7 +46,8 @@ Arrange them according to the **T568B wiring standard** in the following order:
 
 Keep the wires straight and maintain the correct order.
 
-![alt text](<rj45 diagram-1.jpg>)
+<img width="680" height="460" alt="image" src="https://github.com/user-attachments/assets/dfc5ec62-887b-4fb0-aefa-426bc1d0ce06" />
+
 
 
 
