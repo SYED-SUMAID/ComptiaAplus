@@ -27,7 +27,7 @@ Remove a small portion of the outer insulation from the end of the cable using a
 Carefully expose the eight internal wires without damaging them.
 
 
-![alt text](rj45.jpg)
+![alt text](wiretrim-1.jpg)
 
 ### 2. Arrange the Wires
 
