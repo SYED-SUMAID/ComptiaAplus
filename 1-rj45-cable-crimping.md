@@ -103,7 +103,7 @@ For a correctly terminated straight-through cable, the tester should show the co
 
 If the sequence is incorrect or a light does not appear, check the wiring and connectors and repeat the crimping process if necessary.
 
-![alt text](cabletester.webp)
+![alt text](cabletester(1).webp)
 
 
 ---
